@@ -7,6 +7,8 @@
 - 📞 (31) 9 9418-7279
 
 
+
+
 ##
 
 <div align="center">
@@ -24,7 +26,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
-  <img align="right" alt="Rafa-pic" height="150" src="https://valchan.com.br/assets/img/Professortocat.png">
+  <img align="right" alt="Rafa-pic" height="150" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
+ 
+
 </div>
   
 ##
@@ -38,6 +42,7 @@
   
   ![Snake animation](https://github.com/Danielrabelochaves/Danielrabelochaves/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
    
 
   
