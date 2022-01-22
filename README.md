@@ -2,11 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando como estagíario de TI
 - 🌱 Graduando Sistemas de Informação
-- 💬 Perfil linkedin: linkedin.com/in/danielrabelochaves
-- 📫 Contate-me no email: danielrabelobh@outlook.com
 - 📞 (31) 9 9418-7279
-
-
 
 
 ##
