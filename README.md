@@ -16,13 +16,15 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://github.com/user-attachments/assets/909c56e6-252d-40b7-9ca6-83019f67649e">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
   <img align="right" alt="Rafa-pic" height="150" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
- 
+  <img align="center" alt="Js" height="30" width="40" src="https://github.com/user-attachments/assets/afb79933-e145-4ca6-b4e0-946982233d3c">
+  <img align="center" alt="Js" height="30" width="40" src="https://github.com/user-attachments/assets/324f8b6c-6df4-4b09-baeb-cc150755bf8e">
 
 </div>
   
