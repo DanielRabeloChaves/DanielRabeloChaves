@@ -1,9 +1,8 @@
-### Olá, eu sou um estudante da área de tecnologia, graduando em Sistemas de Informação pela Instituição Newton Paiva - 6º Período.
+### Olá, eu sou um entusiasta da área de tecnologia, graduado em Sistemas de Informação pela Instituição Newton Paiva, onde adquiri uma formação sólida e abrangente, que me preparou para atuar nas diversas áreas de tecnologia da informação.
 
-- 🔭 Atualmente estou trabalhando como estagíario de TI
-- 🌱 Graduando Sistemas de Informação
+- 🔭 Atualmente estou trabalhando como desenvolvedor Full Stack.
+- 🌱 Graduado Bacharel em Sistemas de Informação
 - 📞 (31) 9 9418-7279
-
 
 ##
 
