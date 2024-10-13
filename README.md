@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando como desenvolvedor Full Stack.
 - 🌱 Graduado Bacharel em Sistemas de Informação
-- 📞 (31) 9 9418-7279
+- 📞 +55 (31) 9 9777-9117
 
 ##
 
